@@ -72,7 +72,5 @@ holdButton.addEventListener('click', function () {
 
     //2. Check if players score s >= 100
     //Finish game 
-
-    //3. Switch to the next player
 })
 
